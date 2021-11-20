@@ -1,0 +1,41 @@
+:root {
+  --unit: 10px;
+  --Futura-LT: Futura LT;
+
+  //font sizes
+  --size-xs: 12px;
+  --size-s: 14px;
+  --size-m: 16px;
+  --size-l: 24px;
+  --size-xl: 32px;
+  --size-2xl: 48px;
+
+  //spaces
+  --span-xs: var(--unit);
+  --span-s: calc(var(--unit) * 2);
+  --span-m: calc(var(--unit) * 3);
+  --span-l: calc(var(--unit) * 4);
+  --span-xl: calc(var(--unit) * 5);
+  --span-2xl: calc(var(--unit) * 6);
+
+  //font weights
+  --weight-xsm: 300;
+  --weight-sm: 400;
+  --weight-md: 500;
+  --weight-lg: 600;
+  --weight-xlg: 700;
+  --weight-xxlg: 800;
+  --weight-2xxlg: 900;
+
+  //colors
+
+  --background: #f6f8fa;
+  --white: #ffffff;
+  --header-blue: #002e42;
+  --form-input: #828282;
+  --border-focus: #89d6fb;
+  --border: #a5b0b5;
+  --login-blue: #029ae1;
+  --grey--1: #314148;
+  --grey--2: #f0f2f4;
+}

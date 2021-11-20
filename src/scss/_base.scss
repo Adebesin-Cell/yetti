@@ -1,0 +1,30 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--Futura-LT);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--background);
+}
+
+.container {
+  @media only screen and (max-width: 1799px) {
+    padding-left: 5.5%;
+    padding-right: 5.5%;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    padding-left: 3.5%;
+    padding-right: 3.5%;
+  }
+}
