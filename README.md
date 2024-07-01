@@ -142,5 +142,3 @@ In conclusion, while the digital age brings numerous conveniences, it also poses
   - Male: 50.6%
   - Female: 40.2%
   - Prefer not to say: 3.4%
-
-By understanding the intricate details of EMF exposure and its effects, stakeholders can create more effective policies and strategies to ensure the well-being of users. The data underscores the importance of continued education, ergonomic practices, and precautionary measures to foster a healthier digital environment.
